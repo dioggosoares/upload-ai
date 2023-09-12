@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+#videos
+/videos
+
 # production
 /build
 
