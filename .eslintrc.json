@@ -4,6 +4,6 @@
     "@primittive/eslint-config/next"
   ],
   "rules": {
-    
+    "no-useless-return": "off"
   }
 }
